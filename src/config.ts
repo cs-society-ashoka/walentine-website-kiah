@@ -16,17 +16,16 @@ export const config = {
 
   /** Photo URLs for photo-heavy templates (Memory Cloud, Mixtape, 90s Desktop) */
   photos: [
-    "public/photos/photo1.jpeg",
-    "public/photos/photo2.jpeg",
-    "public/photos/photo3.jpeg",
-    "public/photos/photo4.png",
-    "public/photos/photo5.jpeg",
-    "public/photos/photo6.png",
-    "public/photos/photo7.jpeg",
-  ],
+    "/walentine-website-kiah/photos/photo1.jpeg",
+    "/walentine-website-kiah/photos/photo2.jpeg",
+    "/walentine-website-kiah/photos/photo3.jpeg",
+    "/walentine-website-kiah/photos/photo4.png",
+    "/walentine-website-kiah/photos/photo5.jpeg",
+    "/walentine-website-kiah/photos/photo6.png",
+    "/walentine-website-kiah/photos/photo7.jpeg",
+],
 
-    /** Audio URL for Mixtape background music */
-  audioUrl: "audio/final_audio.mp3",
+audioUrl: "/walentine-website-kiah/audio/final_audio.mp3",
 
   /** Receipt line items for "The Love Receipt" template */
   receiptItems: [
