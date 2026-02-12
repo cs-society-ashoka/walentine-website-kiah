@@ -25,7 +25,7 @@ export const config = {
     "photos/photo7.jpeg",
 ],
 logo: "photos/logo.png",
-audioUrl: "/audio/final_audio.mp3",
+audioUrl: "audio/final_audio.mp3",
 
   /** Receipt line items for "The Love Receipt" template */
   receiptItems: [
