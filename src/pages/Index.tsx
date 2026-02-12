@@ -4,7 +4,7 @@ import { motion } from "framer-motion";
 
 const SOCIETY_DETAILS = {
   name: "The Computer Science Society", 
-  logo: "public/photos/logo.png", 
+  logo: "photos/logo.png", 
 };
 // ------------------------------------------------
 
