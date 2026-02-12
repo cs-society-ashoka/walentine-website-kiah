@@ -1,5 +1,6 @@
 import { Link } from "react-router-dom";
 import { motion } from "framer-motion";
+import { config } from "@/config";
 
 
 const SOCIETY_DETAILS = {
@@ -82,7 +83,7 @@ const Index = () => {
       >
         <div className="flex items-center gap-3 rounded-full bg-white/50 px-4 py-2 shadow-sm backdrop-blur-sm transition-all hover:bg-white/80">
           <img 
-            src="photos/logo.png" 
+             src={config.logo}
             alt={`${SOCIETY_DETAILS.name} Logo`} 
             className="h-8 w-8 rounded-full object-cover"
           />
